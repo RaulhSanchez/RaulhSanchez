@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://https://www.linkedin.com/in/raúl-huete-sánchez/">
+  <img align="let" alt="Raul Huete | LinkedIn" width="21px" src="https://github.com/RaulhSanchez/RaulhSanchez/blob/main/Linkedin.png">
+ <a>
+
 <!--
 **RaulhSanchez/RaulhSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
