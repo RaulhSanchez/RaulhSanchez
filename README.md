@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+Sincce i’ve memory,i always loved games and consoles.Thanks to that i finishesd a videogame related degree and while i was studying that i descovered what will be my true passionand professional path:programming.
+
+This is my Linkedin profile:
 <a href="https://https://www.linkedin.com/in/raúl-huete-sánchez/">
-  <img align="let" alt="Raul Huete | LinkedIn" width="21px" src="https://github.com/RaulhSanchez/RaulhSanchez/blob/main/Linkedin.png">
+  <img align="let" alt="Raul Huete | LinkedIn" width="50px" src="https://github.com/RaulhSanchez/RaulhSanchez/blob/main/Linkedin.png">
  <a>
 
 <!--
